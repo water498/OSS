@@ -1,3 +1,5 @@
+// opensource 04/11
+
 #include <stdio.h>
 
 void input(int *p, int N);
